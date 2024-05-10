@@ -23,7 +23,8 @@ parasys 所做的工作为红框部分
 
 # Introduction
 
-> [!important] parasys 的主要目标是比较不同parallel task execution 实现方式在处理不同 workload 下并行任务的性能表现。
+> [!IMPORTANT]  
+> parasys 的主要目标是比较不同parallel task execution 实现方式在处理不同 workload 下并行任务的性能表现。
 
 ## TaskSet
 
